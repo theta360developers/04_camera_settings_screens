@@ -1,4 +1,4 @@
-# THETA X Multi Bloc
+# Multiple Screens for Different Camera Settings
 
 ![animated gif](docs/images/videoscreen.gif)
 
